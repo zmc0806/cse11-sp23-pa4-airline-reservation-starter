@@ -1,12 +1,12 @@
 # CSE 11 Spring 2023 PA4 - Airline Reservation System
 **Due date: Thursday, May 4th @ 11:59PM PDT**
 
-There is an [FAQ post](TODO) on Piazza. Please read that post first if you have any questions.
+There is an [FAQ post](https://piazza.com/class/lfx8rc63u25xd/post/145) on Piazza. Please read that post first if you have any questions.
 
 
 ## Provided Files
 
-**Download the starter code from GitHub by clicking Code-> Download Zip**
+**Download the starter code from GitHub by clicking Code-> Download ZIP**
 
 - AirlineReservation.java
 - sample.csv
