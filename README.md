@@ -94,9 +94,7 @@ We will pass the CSV's file name through command line arguments and utilize Java
 ### Methods
 > __Warning__ 
 >
-> Do not import or use any libraries. You should not have any `import` statements for this PA.
-> 
-> Doing so will result in a 0 for this assignment.
+> You should not have any additional `import` statements for this PA.
 
 #### Helper Methods
 - `private static int findClass(int row)`
